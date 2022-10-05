@@ -1,0 +1,73 @@
+{
+  "manifest": {
+    "author": "Ajax#1863",
+    "name": "KeqingLover",
+    "version": "1.1.0"
+  },
+  "background": {
+    "overlay_alpha": 90,
+    "blur_radius": 1.5,
+    "url": "https://media.discordapp.net/attachments/981534370189942828/1027253122076250152/IMG_20221005_231647.jpg"
+  },
+  "fonts": {
+    "*": "https://cdn.discordapp.com/attachments/803090285470154755/913621584420421703/MavenPro-Bold.ttf"
+  },
+  "simple_colors": {
+    "background": 430800578,
+    "background_secondary": 393491856,
+    "mention_highlight": 1251499443,
+    "accent": -5407038,
+    "statusbar": 430800578
+  },
+  "colors": {
+    "primary_dark_200": -4022574,
+    "primary_dark_300": -4022574,
+    "primary_dark_360": -4022574,
+    "brand_new": -2439708,
+    "brand_new_560": -2439708,
+    "brand_new_430": -2439708,
+    "brand_new_230": -2439708,
+    "brand_new_330": -2439708,
+    "brand_new_360": -2439708,
+    "brand_new_460": -2439708,
+    "brand_new_260": -2439708,
+    "brand_new_500": -2439708,
+    "brand_new_600": -2439708,
+    "brand_new_630": -2439708,
+    "brand_new_300": -2439708,
+    "brand_new_400": -2439708,
+    "uikit_btn_compound_color_selector_dark": -5407038,
+    "uikit_btn_compound_color_selector_light": -5407038,
+    "uikit_btn_bg_color_selector_background_accent_dark": -4022574,
+    "uikit_btn_bg_color_selector_background_accent_light": -4022574,
+    "uikit_btn_bg_color_selector_brand": -2439708,
+    "uikit_btn_bg_color_selector_secondary": -4022574,
+    "uikit_btn_bg_color_selector_secondary_dark": -5407038,
+    "uikit_btn_bg_color_selector_secondary_light": -5407038,
+    "uikit_btn_bg_color_selector_white": -2439708,
+    "uikit_btn_outline_color_selector_brand": -5407038,
+    "uikit_settings_item_text_color_light": 1722646210,
+    "uikit_settings_item_text_color_dark": -5407038,
+    "link": -5407038,
+    "primary_700": 1269661378,
+    "brand_new_530": -2439708
+  },
+  "drawable_tints": {
+    "ic_sidebar_pins_off_light_24dp": -5407038,
+    "ic_sidebar_notifications_off_dark_24dp": -5407038,
+    "ic_sidebar_pins_on_light_24dp": -5407038,
+    "ic_sidebar_notifications_on_light_24dp": -5407038,
+    "ic_sidebar_pins_on_dark_24dp": -5407038,
+    "ic_sidebar_pins_off_dark_24dp": -5407038,
+    "ic_sidebar_notifications_off_light_24dp": -5407038,
+    "ic_sidebar_notifications_on_dark_24dp": -5407038,
+    "drawable_overlay_channel_pressed_dark": -5407038,
+    "drawable_overlay_channel_pressed_light": -5407038,
+    "drawable_overlay_channels_selected_dark": 2125299394,
+    "drawable_overlay_channels_selected_light": 2142076610,
+    "drawable_button_grey": -5407038
+  },
+  "raws": {
+
+  }
+}
