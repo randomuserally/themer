@@ -3,7 +3,7 @@
         "author": "MultiDripAjax#1683",
         "name": "ChildeMain",
         "version": "1.0.0",
-        "updater" : 
+        "updater" : "https://raw.githubusercontent.com/randomuserally/themer/main/nd.json"
     },
     "background": {
         "overlay_alpha": 90,
