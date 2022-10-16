@@ -1,8 +1,9 @@
 {
     "manifest": {
-        "author": "Subtilizer#6619",
-        "name": "Mona Megistus",
-        "version": "1.1.0"
+        "author": "MultiDripAjax#1683",
+        "name": "ChildeMain",
+        "version": "1.0.0",
+        "updater" : 
     },
     "background": {
         "overlay_alpha": 90,
@@ -10,7 +11,7 @@
         "url": "https:\/\/media.discordapp.net\/attachments\/1026043255734939678\/1031013558361800774\/IMG_20221016_081830.png"
     },
     "fonts": {
-        "*": "https:\/\/cdn.discordapp.com\/attachments\/803090285470154755\/913621584420421703\/MavenPro-Bold.ttf"
+        "*": "https://cdn.discordapp.com/attachments/974687953441931345/1026534521891471410/zh-cn.ttf"
     },
     "simple_colors": {
         "background": 223056853,
